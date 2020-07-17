@@ -3,7 +3,7 @@ Building bridges problem using LIS approach
 
 ![image](https://user-images.githubusercontent.com/58950467/87802494-f1635c80-c86e-11ea-83e8-166205a19dc7.png)
 
-
+Source-Narsimha Karumachi's C++ data structures & algorithms 
 
 Consider a very long, straight river which moves
 from north to south. Assume there are n cities on both sides of the river: n cities on the left
